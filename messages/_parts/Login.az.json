@@ -1,0 +1,17 @@
+{
+  "welcomeBack": "Yenidən xoş gəldiniz, {name}",
+  "eyebrow": "CHRONO təcrübəsi",
+  "title": "Yenidən <accent>Xoş Gəldiniz</accent>",
+  "subtitle": "Hesabınıza daxil olun və zamansız zərafəti kəşf edin.",
+  "email": "E-poçt ünvanı",
+  "emailPlaceholder": "siz@example.com",
+  "password": "Şifrə",
+  "forgot": "Şifrəni unutmusunuz?",
+  "passwordPlaceholder": "Şifrənizi daxil edin",
+  "hidePassword": "Şifrəni gizlət",
+  "showPassword": "Şifrəni göstər",
+  "signingIn": "Daxil olunur...",
+  "signIn": "Daxil ol",
+  "noAccount": "Hesabınız yoxdur?",
+  "createAccount": "Hesab yarat"
+}

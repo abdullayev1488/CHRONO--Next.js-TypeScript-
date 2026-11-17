@@ -1,0 +1,14 @@
+{
+  "shipping": {
+    "title": "Pulsuz çatdırılma",
+    "description": "150 $-dan yuxarı bütün sifarişlərdə pulsuz çatdırılmadan yararlanın."
+  },
+  "authentic": {
+    "title": "Orijinal saatlar",
+    "description": "Orijinallığı təminatlı, diqqətlə seçilmiş saatlar."
+  },
+  "support": {
+    "title": "Xüsusi dəstək",
+    "description": "Ehtiyacınız olduqda fərdi yardım."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "eyebrow": "CHRONO COLLECTION",
+  "back": "Back to Collection",
+  "loading": "Loading timepiece...",
+  "notFoundTitle": "Product Not Found",
+  "errorTitle": "Something Went Wrong",
+  "notFoundText": "The timepiece you're looking for doesn't exist or is no longer available.",
+  "errorText": "We couldn't load this timepiece. Please try again later."
+}

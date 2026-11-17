@@ -1,0 +1,7 @@
+{
+  "label": "{name} gallery",
+  "imageAlt": "{name}, image {current} of {total}",
+  "previous": "Previous image",
+  "next": "Next image",
+  "showImage": "Show image {number}"
+}

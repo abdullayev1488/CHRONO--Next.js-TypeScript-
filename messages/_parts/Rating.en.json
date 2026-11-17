@@ -1,0 +1,5 @@
+{
+  "outOf": "Rated {value} out of 5",
+  "reviewsCount": "{count, plural, one {# review} other {# reviews}}",
+  "noReviews": "Be the first to review"
+}

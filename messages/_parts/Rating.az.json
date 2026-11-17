@@ -1,0 +1,5 @@
+{
+  "outOf": "5 baldan {value} qiymətləndirilib",
+  "reviewsCount": "{count, plural, one {# rəy} other {# rəy}}",
+  "noReviews": "İlk rəyi siz yazın"
+}

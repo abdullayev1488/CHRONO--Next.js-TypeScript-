@@ -1,0 +1,12 @@
+{
+  "dialog": "Search products",
+  "eyebrow": "CHRONO COLLECTION",
+  "title": "Discover Your Timepiece",
+  "close": "Close search",
+  "placeholder": "Search watches, collections...",
+  "inputLabel": "Search watches",
+  "hint": "Start typing to explore our collection.",
+  "noResults": "No timepieces found",
+  "tryAnother": "Try another name or category.",
+  "resultsFound": "{count, plural, one {# Result Found} other {# Results Found}}"
+}

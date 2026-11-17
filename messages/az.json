@@ -1,0 +1,488 @@
+{
+  "About": {
+    "metaTitle": "Haqqımızda | CHRONO",
+    "breadcrumb": "Naviqasiya yolu",
+    "home": "Ana səhifə",
+    "current": "Haqqımızda",
+    "heroLabel": "CHRONO haqqında",
+    "heroTitle": "<em>Hər saniyənin</em> arxasındakı hekayə",
+    "heroDescription": "CHRONO zərif saatlar üçün məkandır: zamansız dizayn ilə şəxsi üslub burada bir-birini tamamlayır.",
+    "storyImageAlt": "Tünd səthdə lüks qol saatı",
+    "storyLabel": "Hekayəmiz",
+    "storyTitle1": "Zamanın dəyərini",
+    "storyTitle2": "bilənlər üçün yaradılıb.",
+    "storyP1": "CHRONO sadə bir inamdan doğuldu: saat vaxtı göstərən alətdən daha artıqdır. O, xatirələri, mühüm anları və xarakteri özündə daşıyan yol yoldaşıdır.",
+    "storyP2": "Kolleksiyamızdakı hər saatı diqqətlə seçirik. Seçimimiz keçici trendlərə yox, dizayna, ustalığa və uzunömürlü xarakterə əsaslanır.",
+    "storyP3": "Klassik ikonalardan müasir üslublara qədər məqsədimiz sizə özünüzə məxsus olan saatı tapmaqda kömək etməkdir.",
+    "valuesLabel": "Dəyərlərimiz",
+    "valuesTitle": "Bizim prinsiplərimiz",
+    "values": {
+      "design": {
+        "title": "Zamansız dizayn",
+        "description": "Yalnız bir mövsüm üçün yox, illərlə zərif qalan saatları seçirik."
+      },
+      "authenticity": {
+        "title": "Orijinallıq zəmanəti",
+        "description": "Hər saat sizə çatmazdan əvvəl diqqətlə seçilir və yoxlanılır."
+      },
+      "service": {
+        "title": "Şəxsi xidmət",
+        "description": "Komandamız ilk sualdan son seçimə qədər sizə yol göstərir."
+      }
+    },
+    "ctaTitle": "<em>Hekayənizi danışan</em> saatı tapın",
+    "ctaDescription": "Kolleksiyanı kəşf edin və taxılmaq, xatırlanmaq üçün yaradılmış saatı seçin.",
+    "ctaButton": "Kolleksiyaya bax"
+  },
+  "Account": {
+    "title": "Hesabınız",
+    "notVerified": "E-poçt ünvanı hələ təsdiqlənməyib.",
+    "signOut": "Çıxış",
+    "signingOut": "Çıxılır...",
+    "signedOut": "Hesabdan çıxdınız"
+  },
+  "AuthModal": {
+    "close": "Pəncərəni bağla"
+  },
+  "BrandStory": {
+    "imageAlt": "Zərif lüks qol saatı",
+    "slogan": "Hər saniyə önəmlidir",
+    "eyebrow": "Fəlsəfəmiz",
+    "title1": "Sadəcə zamandan",
+    "title2": "daha artığı.",
+    "p1": "Saat yalnız zamanı ölçən alət deyil. O, fərdiliyin, özünəinamın və zamansız zərafətin ifadəsidir.",
+    "p2": "CHRONO-da hər anın xatırlanmağa layiq olduğuna inanırıq. Seçilmiş kolleksiyamız müstəsna dizaynı və davamlı zərifliyi bir araya gətirir.",
+    "stat1Title": "Zamansız",
+    "stat1Label": "Dizayn",
+    "stat2Title": "Zərif",
+    "stat2Label": "Zərafət",
+    "cta": "Kolleksiyamızı kəşf et"
+  },
+  "CartPage": {
+    "continueShopping": "Alış-verişə davam et",
+    "eyebrow": "Seçiminiz",
+    "title": "Alış-veriş <accent>Səbəti</accent>",
+    "itemCount": "{count} məhsul",
+    "emptyTitle": "Səbətiniz boşdur",
+    "emptyText": "Növbəti zamansız saatınız kəşf olunmağı gözləyir.",
+    "explore": "Kolleksiyanı kəşf et",
+    "yourTimepieces": "Saatlarınız",
+    "productCount": "{count} məhsul",
+    "remove": "{name} məhsulunu sil",
+    "unitPrice": "Vahid qiymət",
+    "decrease": "Miqdarı azalt",
+    "increase": "Miqdarı artır",
+    "curated": "Zamansız ustalıqdan seçilmiş kolleksiya.",
+    "orderSummary": "Sifariş xülasəsi",
+    "items": "Məhsullar ({count})",
+    "shipping": "Çatdırılma",
+    "calcAtCheckout": "Sifarişin rəsmiləşdirilməsində hesablanır",
+    "subtotal": "Ara cəm",
+    "taxNote": "Çatdırılma və vergilər sifarişin rəsmiləşdirilməsində hesablanacaq.",
+    "proceed": "Sifarişə keç",
+    "secure": "Təhlükəsiz alış-veriş",
+    "premiumDelivery": "Premium çatdırılma"
+  },
+  "CheckoutPage": {
+    "backToCart": "Səbətə qayıt",
+    "eyebrow": "Sifarişinizi tamamlayın",
+    "title": "Təhlükəsiz <accent>Ödəniş</accent>",
+    "emptyTitle": "Səbətiniz boşdur",
+    "explore": "Kolleksiyanı kəşf et",
+    "customerInfo": "01. Müştəri məlumatları",
+    "firstName": "Ad",
+    "firstNamePh": "Əli",
+    "lastName": "Soyad",
+    "lastNamePh": "Əliyev",
+    "email": "E-poçt ünvanı",
+    "emailPh": "ali@example.com",
+    "phone": "Telefon nömrəsi",
+    "shippingAddress": "02. Çatdırılma ünvanı",
+    "country": "Ölkə",
+    "countries": {
+      "Azerbaijan": "Azərbaycan",
+      "Turkey": "Türkiyə",
+      "Georgia": "Gürcüstan"
+    },
+    "city": "Şəhər",
+    "cityPh": "Bakı",
+    "street": "Küçə ünvanı",
+    "streetPh": "Küçə adı və bina nömrəsi",
+    "apartment": "Mənzil (İstəyə bağlı)",
+    "apartmentPh": "Mənzil, ofis, mərtəbə...",
+    "deliveryMethod": "03. Çatdırılma üsulu",
+    "standard": "Standart çatdırılma",
+    "express": "Ekspress çatdırılma",
+    "free": "Pulsuz",
+    "payment": "04. Ödəniş",
+    "payAfter": "Sifariş təsdiqləndikdən sonra ödəniş",
+    "payNote": "Onlayn kartla ödəniş hələ aktiv deyil. Sifarişiniz rezerv edilir və komandamız ödənişi tənzimləmək üçün sizinlə əlaqə saxlayacaq. Burada heç bir ödəniş məlumatı toplanmır.",
+    "orderSummary": "Sifariş xülasəsi",
+    "qty": "Say",
+    "items": "Məhsullar ({count})",
+    "shipping": "Çatdırılma",
+    "total": "Cəmi",
+    "placing": "Sifariş verilir...",
+    "placeOrder": "Sifariş ver",
+    "orderingAs": "{email} adı ilə sifariş verilir",
+    "noAccount": "Hesab tələb olunmur. Qiymətlər və cəmi məbləğ serverimiz tərəfindən təsdiqlənir.",
+    "secureCheckout": "Təhlükəsiz ödəniş",
+    "premiumDelivery": "Premium çatdırılma"
+  },
+  "Currency": {
+    "label": "Valyuta",
+    "note": "Digər valyutalardakı məbləğlər yalnız məlumat üçündür. Sifarişiniz ABŞ dolları (USD) ilə emal olunur."
+  },
+  "ErrorPage": {
+    "title": "Nəsə səhv getdi",
+    "text": "Gözlənilməz xəta baş verdi. Zəhmət olmasa səhifəni yeniləyin və ya ana səhifəyə qayıdın.",
+    "back": "Ana səhifəyə qayıt"
+  },
+  "Errors": {
+    "generic": "Nəsə səhv getdi. Zəhmət olmasa yenidən cəhd edin.",
+    "tooManyAttempts": "Çox sayda cəhd. Zəhmət olmasa bir az sonra yenidən cəhd edin.",
+    "network": "Serverə qoşulmaq mümkün olmadı."
+  },
+  "FeaturedCollection": {
+    "eyebrow": "Sizin üçün seçilib",
+    "title1": "Seçilmiş",
+    "title2": "Kolleksiya",
+    "text": "Hər anı unudulmaz etmək üçün hazırlanmış, əl ilə seçilmiş müstəsna saatlarımızı kəşf edin.",
+    "viewAll": "Bütün saatlara bax",
+    "loading": "Saatlar yüklənir...",
+    "error": "Məhsulları yükləmək alınmadı. Zəhmət olmasa yenidən cəhd edin.",
+    "exploreAll": "Bütün saatları kəşf et"
+  },
+  "Features": {
+    "shipping": {
+      "title": "Pulsuz çatdırılma",
+      "description": "150 $-dan yuxarı bütün sifarişlərdə pulsuz çatdırılmadan yararlanın."
+    },
+    "authentic": {
+      "title": "Orijinal saatlar",
+      "description": "Orijinallığı təminatlı, diqqətlə seçilmiş saatlar."
+    },
+    "support": {
+      "title": "Xüsusi dəstək",
+      "description": "Ehtiyacınız olduqda fərdi yardım."
+    }
+  },
+  "Footer": {
+    "tagline": "Zərif saatlar",
+    "about": "Zamansız zərafət, müstəsna sənətkarlıq. Üslubunuzu müəyyən edən və hər anı qeyd edən saatları kəşf edin.",
+    "home": "Ana səhifə",
+    "collections": "Kolleksiyalar",
+    "bag": "Alış-veriş səbəti",
+    "explore": "Kəşf et",
+    "contact": "Əlaqə",
+    "address": "Bakı, Azərbaycan",
+    "journal": "Chrono Jurnalı",
+    "journalText": "Yeni kolleksiyaları, eksklüziv buraxılışları və zamansız hekayələri ilk siz kəşf edin.",
+    "emailPlaceholder": "E-poçt ünvanınız",
+    "emailLabel": "Xəbər bülleteni üçün e-poçt (önizləmə)",
+    "comingSoon": "Xəbər bülleteninə abunəlik tezliklə.",
+    "rights": "Bütün hüquqlar qorunur.",
+    "slogan": "Hər saniyə önəmlidir",
+    "aboutLink": "Haqqımızda"
+  },
+  "Header": {
+    "announcement": "<highlight>{amount}</highlight> məbləğindən yuxarı sifarişlərdə pulsuz çatdırılma",
+    "tagline": "Zərif saatlar",
+    "home": "Ana səhifə",
+    "collections": "Kolleksiyalar",
+    "searchLabel": "Saatları axtar",
+    "accountLabel": "Hesabı aç",
+    "cartLabel": "Alış-veriş səbəti",
+    "openMenu": "Menyunu aç",
+    "closeMenu": "Menyunu bağla",
+    "mobileNav": "Mobil naviqasiya",
+    "language": "Dil",
+    "about": "Haqqımızda",
+    "wishlistLabel": "Sevimlilər"
+  },
+  "Hero": {
+    "eyebrow": "Zamanın sənəti",
+    "title1": "Zaman",
+    "title2": "Hər şeydir.",
+    "text": "Zamansız dizaynın müasir zərafətlə birləşdiyi müstəsna saat kolleksiyasını kəşf edin. Hər saniyənin qədrini bilənlər üçün yaradılıb.",
+    "cta": "Kolleksiyanı kəşf et",
+    "tag": "Zamansız zərafəti kəşf et"
+  },
+  "Login": {
+    "welcomeBack": "Yenidən xoş gəldiniz, {name}",
+    "eyebrow": "CHRONO təcrübəsi",
+    "title": "Yenidən <accent>Xoş Gəldiniz</accent>",
+    "subtitle": "Hesabınıza daxil olun və zamansız zərafəti kəşf edin.",
+    "email": "E-poçt ünvanı",
+    "emailPlaceholder": "siz@example.com",
+    "password": "Şifrə",
+    "forgot": "Şifrəni unutmusunuz?",
+    "passwordPlaceholder": "Şifrənizi daxil edin",
+    "hidePassword": "Şifrəni gizlət",
+    "showPassword": "Şifrəni göstər",
+    "signingIn": "Daxil olunur...",
+    "signIn": "Daxil ol",
+    "noAccount": "Hesabınız yoxdur?",
+    "createAccount": "Hesab yarat"
+  },
+  "Meta": {
+    "title": "CHRONO | Lüks saatlar",
+    "description": "CHRONO — zərif və lüks qol saatları kolleksiyası.",
+    "productsTitle": "Kolleksiya",
+    "productsDescription": "CHRONO saat kolleksiyası: klassik, lüks və müasir qol saatlarını kəşf edin.",
+    "productTitle": "{name} — {brand}",
+    "productDescription": "{brand} {name}: {category} qol saatı, qiyməti {price}.",
+    "aboutTitle": "Haqqımızda",
+    "siteTagline": "Zərif saatlar"
+  },
+  "Newsletter": {
+    "errorEmpty": "Zəhmət olmasa e-poçt ünvanınızı daxil edin.",
+    "errorInvalid": "Zəhmət olmasa düzgün e-poçt ünvanı daxil edin.",
+    "success": "E-poçtunuz düzgündür. Abunəlik tezliklə əlçatan olacaq.",
+    "eyebrow": "Chrono Jurnalı",
+    "title1": "Zamanın",
+    "title2": "qabağında olun.",
+    "text": "Eksklüziv kolleksiyaları, yeni gələnləri və zamansız ilhamı kəşf edin. Saat həvəskarları icmamıza qoşulun.",
+    "placeholder": "E-poçt ünvanınızı daxil edin",
+    "emailLabel": "Xəbər bülleteni üçün e-poçt ünvanı",
+    "subscribe": "Abunə ol",
+    "comingSoon": "Xəbər bülleteninə abunəlik tezliklə."
+  },
+  "NotFound": {
+    "code": "Xəta 404",
+    "title": "Səhifə tapılmadı",
+    "text": "Axtardığınız səhifə mövcud deyil.",
+    "back": "Ana səhifəyə qayıt"
+  },
+  "OrderConfirmation": {
+    "eyebrow": "Sifariş qəbul edildi",
+    "title": "<accent>Təşəkkür</accent> edirik",
+    "text": "<strong>{number}</strong> nömrəli sifarişiniz qəbul edildi. Komandamız ödəniş və çatdırılmanı tənzimləmək üçün {email} ünvanı ilə sizinlə əlaqə saxlayacaq.",
+    "items": "Məhsullar",
+    "shipping": "Çatdırılma",
+    "free": "Pulsuz",
+    "total": "Cəmi",
+    "payment": "Ödəniş",
+    "continueShopping": "Alış-verişə davam et"
+  },
+  "ProductCard": {
+    "removedToast": "{name} səbətdən çıxarıldı",
+    "addedToast": "{name} səbətə əlavə edildi",
+    "soldOut": "Satılıb",
+    "soldOutLabel": "{name} satılıb",
+    "removeLabel": "{name} məhsulunu səbətdən çıxar",
+    "addLabel": "{name} məhsulunu səbətə əlavə et",
+    "viewDetails": "Ətraflı bax"
+  },
+  "ProductDetails": {
+    "addedToCart": "{name} səbətə əlavə olundu",
+    "back": "Kolleksiyaya qayıt",
+    "description": "Zamansız zərafət ilə müasir ustalığın mükəmməl tarazlığını kəşf edin. Dəqiqliyi, incəliyi və detallara xüsusi diqqəti qiymətləndirənlər üçün yaradılıb.",
+    "brand": "Brend",
+    "collection": "Kolleksiya",
+    "reference": "Referans",
+    "inCart": "Səbətdə - Səbətə bax",
+    "soldOut": "Satılıb",
+    "addToCart": "Səbətə at",
+    "onlyLeft": "Anbarda cəmi {count} ədəd qalıb",
+    "delivery": "Çatdırılma",
+    "secure": "Təhlükəsiz alış-veriş",
+    "returns": "Qaytarma",
+    "badges": {
+      "New": "Yeni",
+      "Bestseller": "Ən çox satılan",
+      "Popular": "Populyar",
+      "Sale": "Endirim",
+      "Exclusive": "Eksklüziv"
+    },
+    "categories": {
+      "Classic": "Klassik",
+      "Luxury": "Lüks",
+      "Modern": "Müasir"
+    }
+  },
+  "ProductDetailsPage": {
+    "eyebrow": "CHRONO KOLLEKSİYASI",
+    "back": "Kolleksiyaya qayıt",
+    "loading": "Saat yüklənir...",
+    "notFoundTitle": "Məhsul tapılmadı",
+    "errorTitle": "Nəsə xəta baş verdi",
+    "notFoundText": "Axtardığınız saat mövcud deyil və ya artıq satışda deyil.",
+    "errorText": "Bu saatı yükləmək mümkün olmadı. Bir az sonra yenidən cəhd edin."
+  },
+  "ProductFilters": {
+    "toggle": "Filtrlər",
+    "brand": "Marka",
+    "mechanism": "Mexanizm",
+    "price": "Qiymət",
+    "min": "Min",
+    "max": "Maks",
+    "priceNote": "Məbləğlər USD ilədir",
+    "availability": "Mövcudluq",
+    "inStockOnly": "Yalnız stokda olanlar",
+    "minChip": "${value}-dan",
+    "maxChip": "${value}-a qədər",
+    "removeFilter": "Filtri sil: {name}",
+    "clearAll": "Hamısını təmizlə"
+  },
+  "ProductGallery": {
+    "label": "{name} qalereyası",
+    "imageAlt": "{name}, şəkil {current}/{total}",
+    "previous": "Əvvəlki şəkil",
+    "next": "Növbəti şəkil",
+    "showImage": "{number}-ci şəkli göstər"
+  },
+  "ProductReviews": {
+    "eyebrow": "Müştəri rəyləri",
+    "title": "Rəylər",
+    "starsLabel": "{count, plural, one {# ulduz} other {# ulduz}}",
+    "ratingLabel": "Sizin qiymətiniz",
+    "basedOn": "{count, plural, one {# rəy əsasında} other {# rəy əsasında}}",
+    "loginRequired": "Rəy yazmaq üçün hesabınıza daxil olun.",
+    "alreadyReviewed": "Bu məhsul üçün artıq rəy yazmısınız.",
+    "tooMany": "Çox sayda rəy göndərildi. Bir az sonra yenidən cəhd edin.",
+    "ratingRequired": "Zəhmət olmasa, qiymət seçin.",
+    "commentTooShort": "Rəy ən azı {min} simvol olmalıdır.",
+    "thanks": "Rəyiniz üçün təşəkkür edirik!",
+    "writeTitle": "Rəy yazın",
+    "titleLabel": "Rəyin başlığı",
+    "titlePlaceholder": "Başlıq (istəyə bağlı)",
+    "commentLabel": "Sizin rəyiniz",
+    "commentPlaceholder": "Bu saatla bağlı təcrübənizi bölüşün",
+    "submit": "Rəyi göndər",
+    "submitting": "Göndərilir...",
+    "loginPrompt": "Rəy yazmaq üçün yuxarıdakı hesab ikonu ilə daxil olun.",
+    "loading": "Yüklənir...",
+    "loadError": "Rəyləri yükləmək mümkün olmadı. Yenidən cəhd edin.",
+    "empty": "Hələ rəy yoxdur. Fikrini ilk bölüşən siz olun.",
+    "loadMore": "Daha çox rəy yüklə"
+  },
+  "ProductSpecs": {
+    "eyebrow": "Təfərrüatlar",
+    "title": "Texniki xüsusiyyətlər",
+    "mechanism": "Mexanizm",
+    "caseSize": "Korpus ölçüsü",
+    "caseMaterial": "Korpus materialı",
+    "strap": "Qayış",
+    "waterResistance": "Suya davamlılıq",
+    "glass": "Şüşə",
+    "mechanisms": {
+      "Automatic": "Avtomatik",
+      "Manual": "Mexaniki (əllə qurulan)",
+      "Quartz": "Kvars"
+    },
+    "mm": "{value} mm",
+    "meters": "{value} m"
+  },
+  "ProductsFilter": {
+    "eyebrow": "Üslubunuzu kəşf edin",
+    "title": "Saatları kəşf edin",
+    "filterSort": "Filtr və çeşidləmə",
+    "showing": "{count} saat göstərilir",
+    "sortLabel": "Məhsulları çeşidlə",
+    "sortBy": "Çeşidlə:",
+    "sortCollection": "Kolleksiyanı çeşidlə",
+    "curated": "Kolleksiyanız üçün seçilib",
+    "sort": {
+      "featured": "Seçilmişlər",
+      "bestseller": "Ən çox satılan",
+      "new": "Yeni gələnlər",
+      "popular": "Populyar",
+      "sale": "Endirim",
+      "exclusive": "Eksklüziv",
+      "rating": "Ən yüksək reytinq",
+      "price-low": "Qiymət: ucuzdan bahaya",
+      "price-high": "Qiymət: bahadan ucuza"
+    },
+    "categories": {
+      "all": "Bütün saatlar",
+      "Classic": "Klassik",
+      "Luxury": "Lüks",
+      "Modern": "Müasir"
+    }
+  },
+  "ProductsGrid": {
+    "showingOf": "{total} SAATDAN {shown} GÖSTƏRİLİR",
+    "loadMore": "Daha çox yüklə",
+    "allLoaded": "Bütün kolleksiyamızı nəzərdən keçirdiniz",
+    "emptyTitle": "Saat tapılmadı",
+    "emptyText": "Filtrləri dəyişərək yenidən cəhd edin."
+  },
+  "ProductsHero": {
+    "breadcrumb": "Naviqasiya yolu",
+    "home": "Ana səhifə",
+    "collections": "Kolleksiyalar",
+    "label": "Saatlarımızı kəşf edin",
+    "title": "<em>Kolleksiya.</em>",
+    "description": "Ustalığın zamansız zərafətlə birləşdiyi nadir saatlardan ibarət seçmə kolleksiyanı kəşf edin."
+  },
+  "ProductsPage": {
+    "loading": "Saatlar yüklənir...",
+    "error": "Məhsulları yükləmək mümkün olmadı. Yenidən cəhd edin."
+  },
+  "Rating": {
+    "outOf": "5 baldan {value} qiymətləndirilib",
+    "reviewsCount": "{count, plural, one {# rəy} other {# rəy}}",
+    "noReviews": "İlk rəyi siz yazın"
+  },
+  "Register": {
+    "nameError": "Zəhmət olmasa ad və soyadınızı daxil edin.",
+    "mismatch": "Şifrələr uyğun gəlmir.",
+    "welcome": "CHRONO-ya xoş gəldiniz, {name}",
+    "eyebrow": "CHRONO təcrübəsi",
+    "title": "<accent>CHRONO</accent>-ya qoşulun",
+    "subtitle": "Hesabınızı yaradın və zamansız zərafət səyahətinizə başlayın.",
+    "fullName": "Ad və soyad",
+    "fullNamePlaceholder": "Ad və soyadınız",
+    "email": "E-poçt ünvanı",
+    "emailPlaceholder": "siz@example.com",
+    "password": "Şifrə",
+    "passwordPlaceholder": "Minimum 10 simvol",
+    "hidePassword": "Şifrəni gizlət",
+    "showPassword": "Şifrəni göstər",
+    "passwordHint": "Ən azı 10 simvol, böyük və kiçik hərflər və bir rəqəm istifadə edin.",
+    "confirmPassword": "Şifrəni təsdiqləyin",
+    "confirmPlaceholder": "Şifrəni təkrar daxil edin",
+    "hideConfirm": "Təsdiq şifrəsini gizlət",
+    "showConfirm": "Təsdiq şifrəsini göstər",
+    "creating": "Hesab yaradılır...",
+    "create": "Hesab yarat",
+    "haveAccount": "Artıq hesabınız var?",
+    "signIn": "Daxil ol"
+  },
+  "RelatedProducts": {
+    "eyebrow": "DAHA ÇOXUNU KƏŞF EDİN",
+    "title": "Bunlar da xoşunuza gələ bilər",
+    "viewAll": "Hamısına bax"
+  },
+  "SearchModal": {
+    "dialog": "Məhsul axtarışı",
+    "eyebrow": "CHRONO KOLLEKSİYASI",
+    "title": "Saatınızı kəşf edin",
+    "close": "Axtarışı bağla",
+    "placeholder": "Saatlar, kolleksiyalar axtarın...",
+    "inputLabel": "Saatları axtar",
+    "hint": "Kolleksiyamızı kəşf etmək üçün yazmağa başlayın.",
+    "noResults": "Saat tapılmadı",
+    "tryAnother": "Başqa ad və ya kateqoriya yoxlayın.",
+    "resultsFound": "{count} nəticə tapıldı"
+  },
+  "Wishlist": {
+    "metaTitle": "Sevimlilər | CHRONO",
+    "addedToast": "{name} sevimlilərə əlavə olundu",
+    "removedToast": "{name} sevimlilərdən silindi",
+    "addLabel": "{name} məhsulunu sevimlilərə əlavə et",
+    "removeLabel": "{name} məhsulunu sevimlilərdən sil",
+    "save": "Saxla",
+    "saved": "Saxlanıb",
+    "eyebrow": "Seçimləriniz",
+    "title": "Sevimlilər",
+    "count": "{count, plural, one {# saat saxlanıb} other {# saat saxlanıb}}",
+    "clearAll": "Hamısını təmizlə",
+    "loading": "Sevimlilər yüklənir...",
+    "error": "Məhsulları yükləmək mümkün olmadı. Zəhmət olmasa yenidən cəhd edin.",
+    "emptyTitle": "Sevimlilər siyahınız boşdur",
+    "emptyText": "Bəyəndiyiniz saatın üzərindəki ürək işarəsinə basın, o burada saxlanılsın.",
+    "browse": "Kolleksiyaya bax"
+  }
+}

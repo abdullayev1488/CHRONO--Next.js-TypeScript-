@@ -1,0 +1,9 @@
+{
+  "eyebrow": "CHRONO KOLLEKSİYASI",
+  "back": "Kolleksiyaya qayıt",
+  "loading": "Saat yüklənir...",
+  "notFoundTitle": "Məhsul tapılmadı",
+  "errorTitle": "Nəsə xəta baş verdi",
+  "notFoundText": "Axtardığınız saat mövcud deyil və ya artıq satışda deyil.",
+  "errorText": "Bu saatı yükləmək mümkün olmadı. Bir az sonra yenidən cəhd edin."
+}

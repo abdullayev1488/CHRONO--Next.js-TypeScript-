@@ -1,0 +1,27 @@
+{
+  "addedToCart": "{name} added to cart",
+  "back": "Back to Collection",
+  "description": "Discover the perfect balance of timeless elegance and modern craftsmanship. Designed for those who appreciate precision, sophistication, and exceptional attention to detail.",
+  "brand": "Brand",
+  "collection": "Collection",
+  "reference": "Reference",
+  "inCart": "In Cart - View Cart",
+  "soldOut": "Sold Out",
+  "addToCart": "Add to Cart",
+  "onlyLeft": "Only {count} left in stock",
+  "delivery": "Delivery",
+  "secure": "Secure Shopping",
+  "returns": "Returns",
+  "badges": {
+    "New": "New",
+    "Bestseller": "Bestseller",
+    "Popular": "Popular",
+    "Sale": "Sale",
+    "Exclusive": "Exclusive"
+  },
+  "categories": {
+    "Classic": "Classic",
+    "Luxury": "Luxury",
+    "Modern": "Modern"
+  }
+}

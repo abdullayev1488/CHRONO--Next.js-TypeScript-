@@ -1,0 +1,17 @@
+{
+  "eyebrow": "Подробности",
+  "title": "Характеристики",
+  "mechanism": "Механизм",
+  "caseSize": "Размер корпуса",
+  "caseMaterial": "Материал корпуса",
+  "strap": "Ремешок",
+  "waterResistance": "Водонепроницаемость",
+  "glass": "Стекло",
+  "mechanisms": {
+    "Automatic": "Автоматический",
+    "Manual": "Механический (ручной завод)",
+    "Quartz": "Кварцевый"
+  },
+  "mm": "{value} мм",
+  "meters": "{value} м"
+}

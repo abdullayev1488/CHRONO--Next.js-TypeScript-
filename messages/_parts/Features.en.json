@@ -1,0 +1,14 @@
+{
+  "shipping": {
+    "title": "Complimentary Shipping",
+    "description": "Enjoy free shipping on all orders over $150."
+  },
+  "authentic": {
+    "title": "Authentic Timepieces",
+    "description": "Carefully selected watches with guaranteed authenticity."
+  },
+  "support": {
+    "title": "Dedicated Support",
+    "description": "Personalized assistance whenever you need us."
+  }
+}

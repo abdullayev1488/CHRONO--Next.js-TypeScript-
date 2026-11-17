@@ -1,0 +1,10 @@
+{
+  "title": "CHRONO | Luxury Watches",
+  "description": "CHRONO — a collection of fine luxury timepieces.",
+  "productsTitle": "Collection",
+  "productsDescription": "The CHRONO watch collection: explore classic, luxury and modern wristwatches.",
+  "productTitle": "{name} — {brand}",
+  "productDescription": "{brand} {name}: {category} wristwatch, priced at {price}.",
+  "aboutTitle": "About Us",
+  "siteTagline": "Fine Timepieces"
+}

@@ -1,0 +1,18 @@
+{
+  "metaTitle": "Sevimlilər | CHRONO",
+  "addedToast": "{name} sevimlilərə əlavə olundu",
+  "removedToast": "{name} sevimlilərdən silindi",
+  "addLabel": "{name} məhsulunu sevimlilərə əlavə et",
+  "removeLabel": "{name} məhsulunu sevimlilərdən sil",
+  "save": "Saxla",
+  "saved": "Saxlanıb",
+  "eyebrow": "Seçimləriniz",
+  "title": "Sevimlilər",
+  "count": "{count, plural, one {# saat saxlanıb} other {# saat saxlanıb}}",
+  "clearAll": "Hamısını təmizlə",
+  "loading": "Sevimlilər yüklənir...",
+  "error": "Məhsulları yükləmək mümkün olmadı. Zəhmət olmasa yenidən cəhd edin.",
+  "emptyTitle": "Sevimlilər siyahınız boşdur",
+  "emptyText": "Bəyəndiyiniz saatın üzərindəki ürək işarəsinə basın, o burada saxlanılsın.",
+  "browse": "Kolleksiyaya bax"
+}

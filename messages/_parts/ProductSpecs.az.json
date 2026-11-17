@@ -1,0 +1,17 @@
+{
+  "eyebrow": "Təfərrüatlar",
+  "title": "Texniki xüsusiyyətlər",
+  "mechanism": "Mexanizm",
+  "caseSize": "Korpus ölçüsü",
+  "caseMaterial": "Korpus materialı",
+  "strap": "Qayış",
+  "waterResistance": "Suya davamlılıq",
+  "glass": "Şüşə",
+  "mechanisms": {
+    "Automatic": "Avtomatik",
+    "Manual": "Mexaniki (əllə qurulan)",
+    "Quartz": "Kvars"
+  },
+  "mm": "{value} mm",
+  "meters": "{value} m"
+}

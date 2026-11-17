@@ -1,0 +1,12 @@
+{
+  "dialog": "Məhsul axtarışı",
+  "eyebrow": "CHRONO KOLLEKSİYASI",
+  "title": "Saatınızı kəşf edin",
+  "close": "Axtarışı bağla",
+  "placeholder": "Saatlar, kolleksiyalar axtarın...",
+  "inputLabel": "Saatları axtar",
+  "hint": "Kolleksiyamızı kəşf etmək üçün yazmağa başlayın.",
+  "noResults": "Saat tapılmadı",
+  "tryAnother": "Başqa ad və ya kateqoriya yoxlayın.",
+  "resultsFound": "{count} nəticə tapıldı"
+}

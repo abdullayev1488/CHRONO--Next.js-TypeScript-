@@ -1,0 +1,17 @@
+{
+  "welcomeBack": "Welcome back, {name}",
+  "eyebrow": "The CHRONO Experience",
+  "title": "Welcome <accent>Back</accent>",
+  "subtitle": "Sign in to access your account and discover timeless elegance.",
+  "email": "Email Address",
+  "emailPlaceholder": "you@example.com",
+  "password": "Password",
+  "forgot": "Forgot Password?",
+  "passwordPlaceholder": "Enter your password",
+  "hidePassword": "Hide password",
+  "showPassword": "Show password",
+  "signingIn": "Signing in...",
+  "signIn": "Sign In",
+  "noAccount": "Don't have an account?",
+  "createAccount": "Create an Account"
+}

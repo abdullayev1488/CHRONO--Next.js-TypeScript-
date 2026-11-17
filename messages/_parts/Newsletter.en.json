@@ -1,0 +1,13 @@
+{
+  "errorEmpty": "Please enter your email address.",
+  "errorInvalid": "Please enter a valid email address.",
+  "success": "Your email is valid. Subscriptions will be available soon.",
+  "eyebrow": "The Chrono Journal",
+  "title1": "Stay Ahead",
+  "title2": "Of Time.",
+  "text": "Discover exclusive collections, new arrivals, and timeless inspiration. Join our community of watch enthusiasts.",
+  "placeholder": "Enter your email address",
+  "emailLabel": "Newsletter email address",
+  "subscribe": "Subscribe",
+  "comingSoon": "Newsletter subscription coming soon."
+}

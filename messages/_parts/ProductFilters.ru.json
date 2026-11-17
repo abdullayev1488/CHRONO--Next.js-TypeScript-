@@ -1,0 +1,15 @@
+{
+  "toggle": "Фильтры",
+  "brand": "Бренд",
+  "mechanism": "Механизм",
+  "price": "Цена",
+  "min": "Мин",
+  "max": "Макс",
+  "priceNote": "Суммы указаны в USD",
+  "availability": "Наличие",
+  "inStockOnly": "Только в наличии",
+  "minChip": "От ${value}",
+  "maxChip": "До ${value}",
+  "removeFilter": "Убрать фильтр: {name}",
+  "clearAll": "Сбросить всё"
+}

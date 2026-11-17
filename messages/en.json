@@ -1,0 +1,488 @@
+{
+  "About": {
+    "metaTitle": "About Us | CHRONO",
+    "breadcrumb": "Breadcrumb",
+    "home": "Home",
+    "current": "About",
+    "heroLabel": "About CHRONO",
+    "heroTitle": "The Story Behind <em>Every Second</em>",
+    "heroDescription": "CHRONO is a destination for fine timepieces, where timeless design meets personal style.",
+    "storyImageAlt": "A luxury wristwatch on a dark surface",
+    "storyLabel": "Our Story",
+    "storyTitle1": "Crafted For",
+    "storyTitle2": "Those Who Value Time.",
+    "storyP1": "CHRONO was created from a simple belief: a watch is more than a tool for telling time. It is a companion that carries memories, milestones and personality.",
+    "storyP2": "We carefully curate every piece in our collection, choosing watches for their design, craftsmanship and lasting character rather than passing trends.",
+    "storyP3": "From classic icons to modern statements, our goal is to help you find the timepiece that feels unmistakably yours.",
+    "valuesLabel": "What We Stand For",
+    "valuesTitle": "Our Values",
+    "values": {
+      "design": {
+        "title": "Timeless Design",
+        "description": "We choose watches that stay elegant for years, not just for a season."
+      },
+      "authenticity": {
+        "title": "Guaranteed Authenticity",
+        "description": "Every timepiece is carefully selected and verified before it reaches you."
+      },
+      "service": {
+        "title": "Personal Service",
+        "description": "Our team is here to guide you from the first question to the final choice."
+      }
+    },
+    "ctaTitle": "Find the Watch That <em>Tells Your Story</em>",
+    "ctaDescription": "Explore the collection and discover a timepiece made to be worn and remembered.",
+    "ctaButton": "Explore Collection"
+  },
+  "Account": {
+    "title": "Your Account",
+    "notVerified": "Email address not verified yet.",
+    "signOut": "Sign Out",
+    "signingOut": "Signing out...",
+    "signedOut": "You have been signed out"
+  },
+  "AuthModal": {
+    "close": "Close modal"
+  },
+  "BrandStory": {
+    "imageAlt": "Elegant luxury wristwatch",
+    "slogan": "Every Second Matters",
+    "eyebrow": "Our Philosophy",
+    "title1": "More Than",
+    "title2": "Just Time.",
+    "p1": "A watch is more than an instrument for measuring time. It is an expression of individuality, confidence, and timeless elegance.",
+    "p2": "At CHRONO, we believe every moment deserves to be remembered. Our curated collection brings together exceptional design and enduring sophistication.",
+    "stat1Title": "Timeless",
+    "stat1Label": "Design",
+    "stat2Title": "Refined",
+    "stat2Label": "Elegance",
+    "cta": "Discover Our Collection"
+  },
+  "CartPage": {
+    "continueShopping": "Continue Shopping",
+    "eyebrow": "Your Selection",
+    "title": "Shopping <accent>Cart</accent>",
+    "itemCount": "{count, plural, one {# Item} other {# Items}}",
+    "emptyTitle": "Your cart is empty",
+    "emptyText": "Your next timeless piece is waiting to be discovered.",
+    "explore": "Explore Collection",
+    "yourTimepieces": "Your Timepieces",
+    "productCount": "{count, plural, one {# Product} other {# Products}}",
+    "remove": "Remove {name}",
+    "unitPrice": "Unit Price",
+    "decrease": "Decrease quantity",
+    "increase": "Increase quantity",
+    "curated": "A curated selection of timeless craftsmanship.",
+    "orderSummary": "Order Summary",
+    "items": "Items ({count})",
+    "shipping": "Shipping",
+    "calcAtCheckout": "Calculated at checkout",
+    "subtotal": "Subtotal",
+    "taxNote": "Shipping and taxes will be calculated at checkout.",
+    "proceed": "Proceed to Checkout",
+    "secure": "Secure Shopping",
+    "premiumDelivery": "Premium Delivery"
+  },
+  "CheckoutPage": {
+    "backToCart": "Back to Cart",
+    "eyebrow": "Complete Your Order",
+    "title": "Secure <accent>Checkout</accent>",
+    "emptyTitle": "Your cart is empty",
+    "explore": "Explore Collection",
+    "customerInfo": "01. Customer Information",
+    "firstName": "First Name",
+    "firstNamePh": "John",
+    "lastName": "Last Name",
+    "lastNamePh": "Doe",
+    "email": "Email Address",
+    "emailPh": "john@example.com",
+    "phone": "Phone Number",
+    "shippingAddress": "02. Shipping Address",
+    "country": "Country",
+    "countries": {
+      "Azerbaijan": "Azerbaijan",
+      "Turkey": "Turkey",
+      "Georgia": "Georgia"
+    },
+    "city": "City",
+    "cityPh": "Baku",
+    "street": "Street Address",
+    "streetPh": "Street name and building number",
+    "apartment": "Apartment (Optional)",
+    "apartmentPh": "Apartment, suite, floor...",
+    "deliveryMethod": "03. Delivery Method",
+    "standard": "Standard Delivery",
+    "express": "Express Delivery",
+    "free": "Free",
+    "payment": "04. Payment",
+    "payAfter": "Pay after order confirmation",
+    "payNote": "Online card payment is not enabled yet. Your order is reserved and our team will contact you to arrange payment. No payment details are collected here.",
+    "orderSummary": "Order Summary",
+    "qty": "Qty",
+    "items": "Items ({count})",
+    "shipping": "Shipping",
+    "total": "Total",
+    "placing": "Placing Order...",
+    "placeOrder": "Place Order",
+    "orderingAs": "Ordering as {email}",
+    "noAccount": "No account needed. Prices and totals are confirmed by our server.",
+    "secureCheckout": "Secure Checkout",
+    "premiumDelivery": "Premium Delivery"
+  },
+  "Currency": {
+    "label": "Currency",
+    "note": "Amounts in other currencies are shown for reference only. Your order is processed in US dollars (USD)."
+  },
+  "ErrorPage": {
+    "title": "Something Went Wrong",
+    "text": "An unexpected error occurred. Please refresh the page or return to the home page.",
+    "back": "Back to Home"
+  },
+  "Errors": {
+    "generic": "Something went wrong. Please try again.",
+    "tooManyAttempts": "Too many attempts. Please try again later.",
+    "network": "Cannot reach the server."
+  },
+  "FeaturedCollection": {
+    "eyebrow": "Curated For You",
+    "title1": "Featured",
+    "title2": "Collection",
+    "text": "Discover our handpicked selection of exceptional timepieces, designed to make every moment unforgettable.",
+    "viewAll": "View All Watches",
+    "loading": "Loading timepieces...",
+    "error": "Failed to load products. Please try again.",
+    "exploreAll": "Explore All Watches"
+  },
+  "Features": {
+    "shipping": {
+      "title": "Complimentary Shipping",
+      "description": "Enjoy free shipping on all orders over $150."
+    },
+    "authentic": {
+      "title": "Authentic Timepieces",
+      "description": "Carefully selected watches with guaranteed authenticity."
+    },
+    "support": {
+      "title": "Dedicated Support",
+      "description": "Personalized assistance whenever you need us."
+    }
+  },
+  "Footer": {
+    "tagline": "Fine Timepieces",
+    "about": "Timeless elegance, exceptional craftsmanship. Discover watches that define your style and celebrate every moment.",
+    "home": "Home",
+    "collections": "Collections",
+    "bag": "Shopping Bag",
+    "explore": "Explore",
+    "contact": "Contact",
+    "address": "Baku, Azerbaijan",
+    "journal": "The Chrono Journal",
+    "journalText": "Be the first to discover new collections, exclusive releases and timeless stories.",
+    "emailPlaceholder": "Your email address",
+    "emailLabel": "Newsletter email preview",
+    "comingSoon": "Newsletter subscription coming soon.",
+    "rights": "All rights reserved.",
+    "slogan": "Every Second Matters",
+    "aboutLink": "About Us"
+  },
+  "Header": {
+    "announcement": "Complimentary Shipping on Orders Over <highlight>{amount}</highlight>",
+    "tagline": "Fine Timepieces",
+    "home": "Home",
+    "collections": "Collections",
+    "searchLabel": "Search watches",
+    "accountLabel": "Open account",
+    "cartLabel": "Shopping cart",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mobileNav": "Mobile navigation",
+    "language": "Language",
+    "about": "About",
+    "wishlistLabel": "Wishlist"
+  },
+  "Hero": {
+    "eyebrow": "The Art of Time",
+    "title1": "Time Is",
+    "title2": "Everything.",
+    "text": "Discover an exceptional collection of timepieces where timeless design meets modern sophistication. Crafted for those who value every second.",
+    "cta": "Explore Collection",
+    "tag": "Discover Timeless Elegance"
+  },
+  "Login": {
+    "welcomeBack": "Welcome back, {name}",
+    "eyebrow": "The CHRONO Experience",
+    "title": "Welcome <accent>Back</accent>",
+    "subtitle": "Sign in to access your account and discover timeless elegance.",
+    "email": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "forgot": "Forgot Password?",
+    "passwordPlaceholder": "Enter your password",
+    "hidePassword": "Hide password",
+    "showPassword": "Show password",
+    "signingIn": "Signing in...",
+    "signIn": "Sign In",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create an Account"
+  },
+  "Meta": {
+    "title": "CHRONO | Luxury Watches",
+    "description": "CHRONO — a collection of fine luxury timepieces.",
+    "productsTitle": "Collection",
+    "productsDescription": "The CHRONO watch collection: explore classic, luxury and modern wristwatches.",
+    "productTitle": "{name} — {brand}",
+    "productDescription": "{brand} {name}: {category} wristwatch, priced at {price}.",
+    "aboutTitle": "About Us",
+    "siteTagline": "Fine Timepieces"
+  },
+  "Newsletter": {
+    "errorEmpty": "Please enter your email address.",
+    "errorInvalid": "Please enter a valid email address.",
+    "success": "Your email is valid. Subscriptions will be available soon.",
+    "eyebrow": "The Chrono Journal",
+    "title1": "Stay Ahead",
+    "title2": "Of Time.",
+    "text": "Discover exclusive collections, new arrivals, and timeless inspiration. Join our community of watch enthusiasts.",
+    "placeholder": "Enter your email address",
+    "emailLabel": "Newsletter email address",
+    "subscribe": "Subscribe",
+    "comingSoon": "Newsletter subscription coming soon."
+  },
+  "NotFound": {
+    "code": "Error 404",
+    "title": "Page Not Found",
+    "text": "The page you are looking for does not exist.",
+    "back": "Back to Home"
+  },
+  "OrderConfirmation": {
+    "eyebrow": "Order Received",
+    "title": "Thank <accent>You</accent>",
+    "text": "Your order <strong>{number}</strong> has been placed. Our team will contact you at {email} to arrange payment and delivery.",
+    "items": "Items",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "payment": "Payment",
+    "continueShopping": "Continue Shopping"
+  },
+  "ProductCard": {
+    "removedToast": "{name} removed from cart",
+    "addedToast": "{name} added to cart",
+    "soldOut": "Sold Out",
+    "soldOutLabel": "{name} is sold out",
+    "removeLabel": "Remove {name} from cart",
+    "addLabel": "Add {name} to cart",
+    "viewDetails": "View Details"
+  },
+  "ProductDetails": {
+    "addedToCart": "{name} added to cart",
+    "back": "Back to Collection",
+    "description": "Discover the perfect balance of timeless elegance and modern craftsmanship. Designed for those who appreciate precision, sophistication, and exceptional attention to detail.",
+    "brand": "Brand",
+    "collection": "Collection",
+    "reference": "Reference",
+    "inCart": "In Cart - View Cart",
+    "soldOut": "Sold Out",
+    "addToCart": "Add to Cart",
+    "onlyLeft": "Only {count} left in stock",
+    "delivery": "Delivery",
+    "secure": "Secure Shopping",
+    "returns": "Returns",
+    "badges": {
+      "New": "New",
+      "Bestseller": "Bestseller",
+      "Popular": "Popular",
+      "Sale": "Sale",
+      "Exclusive": "Exclusive"
+    },
+    "categories": {
+      "Classic": "Classic",
+      "Luxury": "Luxury",
+      "Modern": "Modern"
+    }
+  },
+  "ProductDetailsPage": {
+    "eyebrow": "CHRONO COLLECTION",
+    "back": "Back to Collection",
+    "loading": "Loading timepiece...",
+    "notFoundTitle": "Product Not Found",
+    "errorTitle": "Something Went Wrong",
+    "notFoundText": "The timepiece you're looking for doesn't exist or is no longer available.",
+    "errorText": "We couldn't load this timepiece. Please try again later."
+  },
+  "ProductFilters": {
+    "toggle": "Filters",
+    "brand": "Brand",
+    "mechanism": "Movement",
+    "price": "Price",
+    "min": "Min",
+    "max": "Max",
+    "priceNote": "Amounts in USD",
+    "availability": "Availability",
+    "inStockOnly": "In stock only",
+    "minChip": "From ${value}",
+    "maxChip": "Up to ${value}",
+    "removeFilter": "Remove filter: {name}",
+    "clearAll": "Clear all"
+  },
+  "ProductGallery": {
+    "label": "{name} gallery",
+    "imageAlt": "{name}, image {current} of {total}",
+    "previous": "Previous image",
+    "next": "Next image",
+    "showImage": "Show image {number}"
+  },
+  "ProductReviews": {
+    "eyebrow": "Customer Feedback",
+    "title": "Reviews",
+    "starsLabel": "{count, plural, one {# star} other {# stars}}",
+    "ratingLabel": "Your rating",
+    "basedOn": "{count, plural, one {Based on # review} other {Based on # reviews}}",
+    "loginRequired": "Please log in to write a review.",
+    "alreadyReviewed": "You have already reviewed this product.",
+    "tooMany": "Too many reviews. Please try again later.",
+    "ratingRequired": "Please select a rating.",
+    "commentTooShort": "Your review must be at least {min} characters long.",
+    "thanks": "Thank you for your review!",
+    "writeTitle": "Write a Review",
+    "titleLabel": "Review title",
+    "titlePlaceholder": "Title (optional)",
+    "commentLabel": "Your review",
+    "commentPlaceholder": "Share your experience with this timepiece",
+    "submit": "Submit Review",
+    "submitting": "Submitting...",
+    "loginPrompt": "Log in with the account icon in the header to write a review.",
+    "loading": "Loading...",
+    "loadError": "Failed to load reviews. Please try again.",
+    "empty": "No reviews yet. Be the first to share your thoughts.",
+    "loadMore": "Load More Reviews"
+  },
+  "ProductSpecs": {
+    "eyebrow": "Details",
+    "title": "Specifications",
+    "mechanism": "Movement",
+    "caseSize": "Case size",
+    "caseMaterial": "Case material",
+    "strap": "Strap",
+    "waterResistance": "Water resistance",
+    "glass": "Crystal",
+    "mechanisms": {
+      "Automatic": "Automatic",
+      "Manual": "Manual winding",
+      "Quartz": "Quartz"
+    },
+    "mm": "{value} mm",
+    "meters": "{value} m"
+  },
+  "ProductsFilter": {
+    "eyebrow": "Discover Your Style",
+    "title": "Explore Timepieces",
+    "filterSort": "Filter & Sort",
+    "showing": "Showing {count} timepieces",
+    "sortLabel": "Sort products",
+    "sortBy": "Sort by:",
+    "sortCollection": "Sort Collection",
+    "curated": "Curated for your collection",
+    "sort": {
+      "featured": "Featured",
+      "bestseller": "Bestseller",
+      "new": "New Arrivals",
+      "popular": "Popular",
+      "sale": "Sale",
+      "exclusive": "Exclusive",
+      "rating": "Top Rated",
+      "price-low": "Price: Low to High",
+      "price-high": "Price: High to Low"
+    },
+    "categories": {
+      "all": "All Watches",
+      "Classic": "Classic",
+      "Luxury": "Luxury",
+      "Modern": "Modern"
+    }
+  },
+  "ProductsGrid": {
+    "showingOf": "SHOWING {shown} OF {total} TIMEPIECES",
+    "loadMore": "Load More",
+    "allLoaded": "You've explored our entire collection",
+    "emptyTitle": "No timepieces found",
+    "emptyText": "Try adjusting your filters."
+  },
+  "ProductsHero": {
+    "breadcrumb": "Breadcrumb",
+    "home": "Home",
+    "collections": "Collections",
+    "label": "Explore Our Timepieces",
+    "title": "The <em>Collection.</em>",
+    "description": "Discover a curated selection of exceptional timepieces, where craftsmanship meets timeless sophistication."
+  },
+  "ProductsPage": {
+    "loading": "Loading timepieces...",
+    "error": "Failed to load products. Please try again."
+  },
+  "Rating": {
+    "outOf": "Rated {value} out of 5",
+    "reviewsCount": "{count, plural, one {# review} other {# reviews}}",
+    "noReviews": "Be the first to review"
+  },
+  "Register": {
+    "nameError": "Please enter your first and last name.",
+    "mismatch": "Passwords do not match.",
+    "welcome": "Welcome to CHRONO, {name}",
+    "eyebrow": "The CHRONO Experience",
+    "title": "Join <accent>CHRONO</accent>",
+    "subtitle": "Create your account and begin your journey through timeless elegance.",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "Minimum 10 characters",
+    "hidePassword": "Hide password",
+    "showPassword": "Show password",
+    "passwordHint": "Use at least 10 characters with upper and lower case letters and a number.",
+    "confirmPassword": "Confirm Password",
+    "confirmPlaceholder": "Repeat your password",
+    "hideConfirm": "Hide confirmation password",
+    "showConfirm": "Show confirmation password",
+    "creating": "Creating account...",
+    "create": "Create Account",
+    "haveAccount": "Already have an account?",
+    "signIn": "Sign In"
+  },
+  "RelatedProducts": {
+    "eyebrow": "DISCOVER MORE",
+    "title": "You May Also Like",
+    "viewAll": "View All"
+  },
+  "SearchModal": {
+    "dialog": "Search products",
+    "eyebrow": "CHRONO COLLECTION",
+    "title": "Discover Your Timepiece",
+    "close": "Close search",
+    "placeholder": "Search watches, collections...",
+    "inputLabel": "Search watches",
+    "hint": "Start typing to explore our collection.",
+    "noResults": "No timepieces found",
+    "tryAnother": "Try another name or category.",
+    "resultsFound": "{count, plural, one {# Result Found} other {# Results Found}}"
+  },
+  "Wishlist": {
+    "metaTitle": "Wishlist | CHRONO",
+    "addedToast": "{name} added to wishlist",
+    "removedToast": "{name} removed from wishlist",
+    "addLabel": "Add {name} to wishlist",
+    "removeLabel": "Remove {name} from wishlist",
+    "save": "Save",
+    "saved": "Saved",
+    "eyebrow": "Your Selection",
+    "title": "Wishlist",
+    "count": "{count, plural, one {# timepiece saved} other {# timepieces saved}}",
+    "clearAll": "Clear all",
+    "loading": "Loading wishlist...",
+    "error": "Failed to load products. Please try again.",
+    "emptyTitle": "Your wishlist is empty",
+    "emptyText": "Tap the heart on any timepiece to save it here for later.",
+    "browse": "Browse Collection"
+  }
+}

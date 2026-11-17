@@ -1,0 +1,7 @@
+{
+  "label": "{name} qalereyası",
+  "imageAlt": "{name}, şəkil {current}/{total}",
+  "previous": "Əvvəlki şəkil",
+  "next": "Növbəti şəkil",
+  "showImage": "{number}-ci şəkli göstər"
+}

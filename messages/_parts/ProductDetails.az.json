@@ -1,0 +1,27 @@
+{
+  "addedToCart": "{name} səbətə əlavə olundu",
+  "back": "Kolleksiyaya qayıt",
+  "description": "Zamansız zərafət ilə müasir ustalığın mükəmməl tarazlığını kəşf edin. Dəqiqliyi, incəliyi və detallara xüsusi diqqəti qiymətləndirənlər üçün yaradılıb.",
+  "brand": "Brend",
+  "collection": "Kolleksiya",
+  "reference": "Referans",
+  "inCart": "Səbətdə - Səbətə bax",
+  "soldOut": "Satılıb",
+  "addToCart": "Səbətə at",
+  "onlyLeft": "Anbarda cəmi {count} ədəd qalıb",
+  "delivery": "Çatdırılma",
+  "secure": "Təhlükəsiz alış-veriş",
+  "returns": "Qaytarma",
+  "badges": {
+    "New": "Yeni",
+    "Bestseller": "Ən çox satılan",
+    "Popular": "Populyar",
+    "Sale": "Endirim",
+    "Exclusive": "Eksklüziv"
+  },
+  "categories": {
+    "Classic": "Klassik",
+    "Luxury": "Lüks",
+    "Modern": "Müasir"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "toggle": "Filtrlər",
+  "brand": "Marka",
+  "mechanism": "Mexanizm",
+  "price": "Qiymət",
+  "min": "Min",
+  "max": "Maks",
+  "priceNote": "Məbləğlər USD ilədir",
+  "availability": "Mövcudluq",
+  "inStockOnly": "Yalnız stokda olanlar",
+  "minChip": "${value}-dan",
+  "maxChip": "${value}-a qədər",
+  "removeFilter": "Filtri sil: {name}",
+  "clearAll": "Hamısını təmizlə"
+}

@@ -1,0 +1,15 @@
+{
+  "announcement": "Бесплатная доставка при заказе от <highlight>{amount}</highlight>",
+  "tagline": "Изысканные часы",
+  "home": "Главная",
+  "collections": "Коллекции",
+  "searchLabel": "Поиск часов",
+  "accountLabel": "Открыть аккаунт",
+  "cartLabel": "Корзина",
+  "openMenu": "Открыть меню",
+  "closeMenu": "Закрыть меню",
+  "mobileNav": "Мобильная навигация",
+  "language": "Язык",
+  "about": "О нас",
+  "wishlistLabel": "Избранное"
+}

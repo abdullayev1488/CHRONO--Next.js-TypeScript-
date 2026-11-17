@@ -1,0 +1,9 @@
+{
+  "removedToast": "{name} удалён из корзины",
+  "addedToast": "{name} добавлен в корзину",
+  "soldOut": "Распродано",
+  "soldOutLabel": "{name} распродан",
+  "removeLabel": "Удалить {name} из корзины",
+  "addLabel": "Добавить {name} в корзину",
+  "viewDetails": "Подробнее"
+}

@@ -1,0 +1,15 @@
+{
+  "announcement": "Complimentary Shipping on Orders Over <highlight>{amount}</highlight>",
+  "tagline": "Fine Timepieces",
+  "home": "Home",
+  "collections": "Collections",
+  "searchLabel": "Search watches",
+  "accountLabel": "Open account",
+  "cartLabel": "Shopping cart",
+  "openMenu": "Open menu",
+  "closeMenu": "Close menu",
+  "mobileNav": "Mobile navigation",
+  "language": "Language",
+  "about": "About",
+  "wishlistLabel": "Wishlist"
+}

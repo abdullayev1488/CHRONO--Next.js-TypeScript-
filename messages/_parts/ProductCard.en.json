@@ -1,0 +1,9 @@
+{
+  "removedToast": "{name} removed from cart",
+  "addedToast": "{name} added to cart",
+  "soldOut": "Sold Out",
+  "soldOutLabel": "{name} is sold out",
+  "removeLabel": "Remove {name} from cart",
+  "addLabel": "Add {name} to cart",
+  "viewDetails": "View Details"
+}

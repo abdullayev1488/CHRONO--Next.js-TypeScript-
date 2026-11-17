@@ -1,0 +1,27 @@
+{
+  "eyebrow": "Üslubunuzu kəşf edin",
+  "title": "Saatları kəşf edin",
+  "filterSort": "Filtr və çeşidləmə",
+  "showing": "{count} saat göstərilir",
+  "sortLabel": "Məhsulları çeşidlə",
+  "sortBy": "Çeşidlə:",
+  "sortCollection": "Kolleksiyanı çeşidlə",
+  "curated": "Kolleksiyanız üçün seçilib",
+  "sort": {
+    "featured": "Seçilmişlər",
+    "bestseller": "Ən çox satılan",
+    "new": "Yeni gələnlər",
+    "popular": "Populyar",
+    "sale": "Endirim",
+    "exclusive": "Eksklüziv",
+    "rating": "Ən yüksək reytinq",
+    "price-low": "Qiymət: ucuzdan bahaya",
+    "price-high": "Qiymət: bahadan ucuza"
+  },
+  "categories": {
+    "all": "Bütün saatlar",
+    "Classic": "Klassik",
+    "Luxury": "Lüks",
+    "Modern": "Müasir"
+  }
+}

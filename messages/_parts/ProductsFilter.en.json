@@ -1,0 +1,27 @@
+{
+  "eyebrow": "Discover Your Style",
+  "title": "Explore Timepieces",
+  "filterSort": "Filter & Sort",
+  "showing": "Showing {count} timepieces",
+  "sortLabel": "Sort products",
+  "sortBy": "Sort by:",
+  "sortCollection": "Sort Collection",
+  "curated": "Curated for your collection",
+  "sort": {
+    "featured": "Featured",
+    "bestseller": "Bestseller",
+    "new": "New Arrivals",
+    "popular": "Popular",
+    "sale": "Sale",
+    "exclusive": "Exclusive",
+    "rating": "Top Rated",
+    "price-low": "Price: Low to High",
+    "price-high": "Price: High to Low"
+  },
+  "categories": {
+    "all": "All Watches",
+    "Classic": "Classic",
+    "Luxury": "Luxury",
+    "Modern": "Modern"
+  }
+}

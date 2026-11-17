@@ -1,0 +1,17 @@
+{
+  "welcomeBack": "С возвращением, {name}",
+  "eyebrow": "Мир CHRONO",
+  "title": "С <accent>возвращением</accent>",
+  "subtitle": "Войдите в аккаунт и откройте для себя вневременную элегантность.",
+  "email": "Адрес эл. почты",
+  "emailPlaceholder": "you@example.com",
+  "password": "Пароль",
+  "forgot": "Забыли пароль?",
+  "passwordPlaceholder": "Введите пароль",
+  "hidePassword": "Скрыть пароль",
+  "showPassword": "Показать пароль",
+  "signingIn": "Вход...",
+  "signIn": "Войти",
+  "noAccount": "Нет аккаунта?",
+  "createAccount": "Создать аккаунт"
+}

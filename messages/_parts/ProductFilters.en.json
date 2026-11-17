@@ -1,0 +1,15 @@
+{
+  "toggle": "Filters",
+  "brand": "Brand",
+  "mechanism": "Movement",
+  "price": "Price",
+  "min": "Min",
+  "max": "Max",
+  "priceNote": "Amounts in USD",
+  "availability": "Availability",
+  "inStockOnly": "In stock only",
+  "minChip": "From ${value}",
+  "maxChip": "Up to ${value}",
+  "removeFilter": "Remove filter: {name}",
+  "clearAll": "Clear all"
+}

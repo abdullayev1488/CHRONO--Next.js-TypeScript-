@@ -1,0 +1,11 @@
+{
+  "eyebrow": "Order Received",
+  "title": "Thank <accent>You</accent>",
+  "text": "Your order <strong>{number}</strong> has been placed. Our team will contact you at {email} to arrange payment and delivery.",
+  "items": "Items",
+  "shipping": "Shipping",
+  "free": "Free",
+  "total": "Total",
+  "payment": "Payment",
+  "continueShopping": "Continue Shopping"
+}

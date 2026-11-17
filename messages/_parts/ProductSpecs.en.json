@@ -1,0 +1,17 @@
+{
+  "eyebrow": "Details",
+  "title": "Specifications",
+  "mechanism": "Movement",
+  "caseSize": "Case size",
+  "caseMaterial": "Case material",
+  "strap": "Strap",
+  "waterResistance": "Water resistance",
+  "glass": "Crystal",
+  "mechanisms": {
+    "Automatic": "Automatic",
+    "Manual": "Manual winding",
+    "Quartz": "Quartz"
+  },
+  "mm": "{value} mm",
+  "meters": "{value} m"
+}

@@ -1,0 +1,35 @@
+{
+  "metaTitle": "About Us | CHRONO",
+  "breadcrumb": "Breadcrumb",
+  "home": "Home",
+  "current": "About",
+  "heroLabel": "About CHRONO",
+  "heroTitle": "The Story Behind <em>Every Second</em>",
+  "heroDescription": "CHRONO is a destination for fine timepieces, where timeless design meets personal style.",
+  "storyImageAlt": "A luxury wristwatch on a dark surface",
+  "storyLabel": "Our Story",
+  "storyTitle1": "Crafted For",
+  "storyTitle2": "Those Who Value Time.",
+  "storyP1": "CHRONO was created from a simple belief: a watch is more than a tool for telling time. It is a companion that carries memories, milestones and personality.",
+  "storyP2": "We carefully curate every piece in our collection, choosing watches for their design, craftsmanship and lasting character rather than passing trends.",
+  "storyP3": "From classic icons to modern statements, our goal is to help you find the timepiece that feels unmistakably yours.",
+  "valuesLabel": "What We Stand For",
+  "valuesTitle": "Our Values",
+  "values": {
+    "design": {
+      "title": "Timeless Design",
+      "description": "We choose watches that stay elegant for years, not just for a season."
+    },
+    "authenticity": {
+      "title": "Guaranteed Authenticity",
+      "description": "Every timepiece is carefully selected and verified before it reaches you."
+    },
+    "service": {
+      "title": "Personal Service",
+      "description": "Our team is here to guide you from the first question to the final choice."
+    }
+  },
+  "ctaTitle": "Find the Watch That <em>Tells Your Story</em>",
+  "ctaDescription": "Explore the collection and discover a timepiece made to be worn and remembered.",
+  "ctaButton": "Explore Collection"
+}

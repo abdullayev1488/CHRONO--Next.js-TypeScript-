@@ -1,0 +1,5 @@
+{
+  "outOf": "Оценка {value} из 5",
+  "reviewsCount": "{count, plural, one {# отзыв} few {# отзыва} many {# отзывов} other {# отзыва}}",
+  "noReviews": "Оставьте первый отзыв"
+}

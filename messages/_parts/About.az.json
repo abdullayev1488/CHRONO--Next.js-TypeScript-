@@ -1,0 +1,35 @@
+{
+  "metaTitle": "Haqqımızda | CHRONO",
+  "breadcrumb": "Naviqasiya yolu",
+  "home": "Ana səhifə",
+  "current": "Haqqımızda",
+  "heroLabel": "CHRONO haqqında",
+  "heroTitle": "<em>Hər saniyənin</em> arxasındakı hekayə",
+  "heroDescription": "CHRONO zərif saatlar üçün məkandır: zamansız dizayn ilə şəxsi üslub burada bir-birini tamamlayır.",
+  "storyImageAlt": "Tünd səthdə lüks qol saatı",
+  "storyLabel": "Hekayəmiz",
+  "storyTitle1": "Zamanın dəyərini",
+  "storyTitle2": "bilənlər üçün yaradılıb.",
+  "storyP1": "CHRONO sadə bir inamdan doğuldu: saat vaxtı göstərən alətdən daha artıqdır. O, xatirələri, mühüm anları və xarakteri özündə daşıyan yol yoldaşıdır.",
+  "storyP2": "Kolleksiyamızdakı hər saatı diqqətlə seçirik. Seçimimiz keçici trendlərə yox, dizayna, ustalığa və uzunömürlü xarakterə əsaslanır.",
+  "storyP3": "Klassik ikonalardan müasir üslublara qədər məqsədimiz sizə özünüzə məxsus olan saatı tapmaqda kömək etməkdir.",
+  "valuesLabel": "Dəyərlərimiz",
+  "valuesTitle": "Bizim prinsiplərimiz",
+  "values": {
+    "design": {
+      "title": "Zamansız dizayn",
+      "description": "Yalnız bir mövsüm üçün yox, illərlə zərif qalan saatları seçirik."
+    },
+    "authenticity": {
+      "title": "Orijinallıq zəmanəti",
+      "description": "Hər saat sizə çatmazdan əvvəl diqqətlə seçilir və yoxlanılır."
+    },
+    "service": {
+      "title": "Şəxsi xidmət",
+      "description": "Komandamız ilk sualdan son seçimə qədər sizə yol göstərir."
+    }
+  },
+  "ctaTitle": "<em>Hekayənizi danışan</em> saatı tapın",
+  "ctaDescription": "Kolleksiyanı kəşf edin və taxılmaq, xatırlanmaq üçün yaradılmış saatı seçin.",
+  "ctaButton": "Kolleksiyaya bax"
+}

@@ -1,0 +1,11 @@
+{
+  "eyebrow": "Sifariş qəbul edildi",
+  "title": "<accent>Təşəkkür</accent> edirik",
+  "text": "<strong>{number}</strong> nömrəli sifarişiniz qəbul edildi. Komandamız ödəniş və çatdırılmanı tənzimləmək üçün {email} ünvanı ilə sizinlə əlaqə saxlayacaq.",
+  "items": "Məhsullar",
+  "shipping": "Çatdırılma",
+  "free": "Pulsuz",
+  "total": "Cəmi",
+  "payment": "Ödəniş",
+  "continueShopping": "Alış-verişə davam et"
+}

@@ -1,0 +1,9 @@
+{
+  "removedToast": "{name} səbətdən çıxarıldı",
+  "addedToast": "{name} səbətə əlavə edildi",
+  "soldOut": "Satılıb",
+  "soldOutLabel": "{name} satılıb",
+  "removeLabel": "{name} məhsulunu səbətdən çıxar",
+  "addLabel": "{name} məhsulunu səbətə əlavə et",
+  "viewDetails": "Ətraflı bax"
+}

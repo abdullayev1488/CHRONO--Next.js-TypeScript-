@@ -1,0 +1,10 @@
+{
+  "title": "CHRONO | Роскошные часы",
+  "description": "CHRONO — коллекция изысканных роскошных часов.",
+  "productsTitle": "Коллекция",
+  "productsDescription": "Коллекция часов CHRONO: классические, роскошные и современные наручные часы.",
+  "productTitle": "{name} — {brand}",
+  "productDescription": "{brand} {name}: наручные часы категории «{category}», цена {price}.",
+  "aboutTitle": "О нас",
+  "siteTagline": "Изысканные часы"
+}

@@ -1,0 +1,18 @@
+{
+  "metaTitle": "Wishlist | CHRONO",
+  "addedToast": "{name} added to wishlist",
+  "removedToast": "{name} removed from wishlist",
+  "addLabel": "Add {name} to wishlist",
+  "removeLabel": "Remove {name} from wishlist",
+  "save": "Save",
+  "saved": "Saved",
+  "eyebrow": "Your Selection",
+  "title": "Wishlist",
+  "count": "{count, plural, one {# timepiece saved} other {# timepieces saved}}",
+  "clearAll": "Clear all",
+  "loading": "Loading wishlist...",
+  "error": "Failed to load products. Please try again.",
+  "emptyTitle": "Your wishlist is empty",
+  "emptyText": "Tap the heart on any timepiece to save it here for later.",
+  "browse": "Browse Collection"
+}
